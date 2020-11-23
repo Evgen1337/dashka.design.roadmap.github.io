@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+### Здравствуйте!
 
-You can use the [editor on GitHub](https://github.com/Evgen1337/dashka.design.roadmap.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ниже будет примерный road-map для UI/UX. Сильно не пинайте я вообще не десигнер.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Список первых шагов как гласят n кол-во сайтов
 
-### Markdown
+[За основу брал этот сайт - тут все самое, что чаще всего везде пишут](https://uxdesign.cc/how-to-become-a-ui-ux-designer-self-taught-8a511170fd7c)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Вот перевод англ. статьи и все самое важное:
 
-```markdown
-Syntax highlighted code block
+# Ознакомьтесь с принципами пользовательского интерфейса.
 
-# Header 1
-## Header 2
-### Header 3
+_Прежде чем переходить к UI / UX-дизайну, вам необходимо овладеть основами веб-дизайна и визуального дизайна, поскольку все эти принципы и навыки будут перенесены в UI-дизайн (разработка кнопок, типографики, белого пространства, тени, работа с цветовыми комбинациями, градиентами, различные виды сеток, макетов и т. д.). Хорошее понимание и прочная основа в визуальном и веб-дизайне необходимы, чтобы стать опытным дизайнером UI / UX. Ниже я выделил некоторые из основных и ключевых принципов дизайна, с которыми вам необходимо ознакомиться (если вы еще этого не сделали):_
 
-- Bulleted
-- List
+1. Цвет.
+_Большая серия из трех частей по теории цвета - словарь цвета, основы и психология цвета._
+[Ссылка из статьи - eng](https://www.sitepoint.com/principles-of-design-colour/)
 
-1. Numbered
-2. List
+2. Сеточные системы.
+_Что они собой представляют и как их можно применить в процессе проектирования._
+[Ссылка из статьи - eng](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
 
-**Bold** and _Italic_ and `Code` text
+3. Состав и баланс.
+_Узнайте, как сбалансировать композицию._
+[Ссылка из статьи - eng](https://www.sitepoint.com/principles-of-design-colour/)
 
-[Link](url) and ![Image](src)
-```
+4. Типографика.
+_В статье был линк на какие то курсы, но я скинул._
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. Контрастность.
+_Использование контраста для организации информации, построения иерархии и создания фокуса._
+[Ссылка из статьи - eng](https://www.sitepoint.com/principles-of-design-contrast/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Evgen1337/dashka.design.roadmap.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Дополнительные материалы
 
-### Support or Contact
+Тут некая библиотека с линками на источники и прочую шелупонь
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table>
+<colgroup>
+<col width="20%" />
+<col width="40%" />
+<col width="40%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Ссылка</th>
+<th>Описание</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">[Dribbble](https://dribbble.com/)</td>
+<td markdown="span">Сайт для портфолио и cообщество дизайнеров, которые делятся своими работами</td>
+</tr>
+<tr>
+<td markdown="span">[Behance](https://www.behance.net/)</td>
+<td markdown="span">Сайт для портфолио и cообщество дизайнеров, которые делятся своими работами</td>
+</tr>
+</tr>
+<tr>
+<td markdown="span">[Awwwards](https://www.awwwards.com/)</td>
+<td markdown="span">Премия для веб дизайна. Выкладывают крутые работы</td>
+</tr>
+</tbody>
+</table>
