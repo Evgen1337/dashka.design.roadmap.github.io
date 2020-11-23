@@ -73,6 +73,14 @@
 </thead>
 <tbody>
 <tr>
+<td markdown="span">[Disarto youtube](https://www.youtube.com/channel/UCZQclF2l8YE-gSqIbjGlkUg)</td>
+<td markdown="span">Канал крутого (как говорили) чела, у которого много курсов по фигме и фш. А также есть мини курс по основам веб дизайна</td>
+</tr>
+<tr>
+<td markdown="span">[Deadsign](https://deadsign.ru/ui/font-sizes-in-ui-design-the-complete-guide/)</td>
+<td markdown="span">Сайт с кучей гайдов и статей по десигну. Переводы статей с англ на ру</td>
+</tr>
+<tr>
 <td markdown="span">[Dribbble](https://dribbble.com/)</td>
 <td markdown="span">Сайт для портфолио и cообщество дизайнеров, которые делятся своими работами</td>
 </tr>
