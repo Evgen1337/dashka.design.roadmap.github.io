@@ -48,12 +48,12 @@
   
 ### Состав и баланс.
   ``Узнайте, как сбалансировать композицию.``
-  [Создаем баланс в веб-дизайне - ru](https://medium.com/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81-%D0%B2-%D0%B2%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5-3ba759ecdf70)
+  - [Создаем баланс в веб-дизайне - ru](https://medium.com/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B5%D0%BC-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81-%D0%B2-%D0%B2%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5-3ba759ecdf70)
 
 ### Контрастность.
  ``Использование контраста для организации информации, построения иерархии и создания фокуса.``
-  [Контраст в web-дизайне - ru](https://spark.ru/startup/web-etalon/blog/38488/kontrast-v-web-dizajne)
-  [КАК ПРИМЕНЯТЬ КОНТРАСТЫ В ВЕБ-ДИЗАЙНЕ: ПРИВЛЕЧЕНИЕ ВНИМАНИЯ ПОЛЬЗОВАТЕЛЯ С ПОМОЩЬЮ ЦВЕТА, ФОРМ И ДРУГИХ ТИПОВ КОНТРАСТА - ru](https://idbi.ru/blogs/blog/kontrasty-v-veb-dizayne)
+  - [Контраст в web-дизайне - ru](https://spark.ru/startup/web-etalon/blog/38488/kontrast-v-web-dizajne)
+  - [КАК ПРИМЕНЯТЬ КОНТРАСТЫ В ВЕБ-ДИЗАЙНЕ: ПРИВЛЕЧЕНИЕ ВНИМАНИЯ ПОЛЬЗОВАТЕЛЯ С ПОМОЩЬЮ ЦВЕТА, ФОРМ И ДРУГИХ ТИПОВ КОНТРАСТА - ru](https://idbi.ru/blogs/blog/kontrasty-v-veb-dizayne)
   
 ## Первые шаги в UX.
 
